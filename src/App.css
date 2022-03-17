@@ -1,3 +1,13 @@
+.navbar {
+  text-align: center;
+  color: white;
+}
+
+.backNavbar a, .backNavbar a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
 .App {
   text-align: center;
 }
